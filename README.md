@@ -1,6 +1,6 @@
 # Hi, I'm Samadhan Patil 👋
 
-QA Automation Engineer with experience in Selenium, Java, TestNG, API Testing, and CI/CD automation.
+QA Automation Engineer 💻, Bike Rider 🏍️, Traveler ✈️, Passionate Gardener 🌱
 
 ## Skills
 - Selenium WebDriver
@@ -11,13 +11,15 @@ QA Automation Engineer with experience in Selenium, Java, TestNG, API Testing, a
 - Maven
 - Git & GitHub
 
-## Certifications
--	Microsoft Certified: Azure AI Fundamentals (AI-900)
-- Microsoft Certified: Azure  Fundamentals (AZ-900)
--	Java Selenium certification
--	Cognixia – Generative AI
+🥇 Certifications
+
+![Azure Fundamentals](https://www.credly.com/badges/e6817881-6489-44ec-a55b-374cd7525bac)
+
+![Azure AI Fundamentals](https://www.credly.com/badges/30605540-e6dd-4544-a862-2eb5c47b0710/public_url)
+
+![Java Selenium](https://www.udemy.com/certificate/UC-92d8bace-b8a7-4831-ba1d-be899faf7fef/)
 
 
+🤝 Connect with me:
 
-## Connect with Me
-LinkedIn: https://linkedin.com/in/samadhan-qa
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samadhan-qa)
