@@ -11,11 +11,9 @@ QA Automation Engineer 💻, Bike Rider 🏍️, Traveler, Passionate Gardener �
 - Maven
 - Git & GitHub
 
-🥇 Certifications
+
 
 ## 🥇 Certifications
-
-## Certifications
 
 [![AZ-900](https://img.shields.io/badge/Azure-AZ--900-blue?style=for-the-badge&logo=microsoftazure)](https://www.credly.com/badges/e6817881-6489-44ec-a55b-374cd7525bac)
 
