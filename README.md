@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Samadhan Patil 👋
 
-<!--
-**samadhan21/samadhan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Automation Engineer with experience in Selenium, Java, TestNG, API Testing, and CI/CD automation.
 
-Here are some ideas to get you started:
+## Skills
+- Selenium WebDriver
+- Java
+- TestNG
+- API Testing
+- Jenkins
+- Maven
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+-	Microsoft Certified: Azure AI Fundamentals (AI-900)
+- Microsoft Certified: Azure  Fundamentals (AZ-900)
+-	Java Selenium certification
+-	Cognixia – Generative AI
+
+
+
+## Connect with Me
+LinkedIn: https://linkedin.com/in/samadhan-qa
