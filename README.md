@@ -1,6 +1,6 @@
 # Hi, I'm Samadhan Patil 👋
 
-QA Automation Engineer 💻, Bike Rider 🏍️, Traveler ✈️, Passionate Gardener 🌱
+QA Automation Engineer 💻, Bike Rider 🏍️, Traveler, Passionate Gardener 🌱
 
 ## Skills
 - Selenium WebDriver
@@ -13,11 +13,15 @@ QA Automation Engineer 💻, Bike Rider 🏍️, Traveler ✈️, Passionate Gar
 
 🥇 Certifications
 
-![Azure Fundamentals](https://www.credly.com/badges/e6817881-6489-44ec-a55b-374cd7525bac)
+## 🥇 Certifications
 
-![Azure AI Fundamentals](https://www.credly.com/badges/30605540-e6dd-4544-a862-2eb5c47b0710/public_url)
+![AZ-900](https://img.shields.io/badge/Azure-AZ--900-blue?style=for-the-badge&logo=microsoftazure)
 
-![Java Selenium](https://www.udemy.com/certificate/UC-92d8bace-b8a7-4831-ba1d-be899faf7fef/)
+![AI-900](https://img.shields.io/badge/Azure-AI--900-0078D4?style=for-the-badge&logo=microsoftazure)
+
+![Selenium](https://img.shields.io/badge/Java-Selenium-green?style=for-the-badge&logo=selenium)
+
+![Generative AI](https://img.shields.io/badge/Cognixia-Generative_AI-purple?style=for-the-badge)
 
 
 🤝 Connect with me:
