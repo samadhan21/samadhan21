@@ -11,8 +11,6 @@ QA Automation Engineer 💻, Bike Rider 🏍️, Traveler, Passionate Gardener �
 - Maven
 - Git & GitHub
 
-
-
 ## 🥇 Certifications
 
 [![AZ-900](https://img.shields.io/badge/Azure-AZ--900-blue?style=for-the-badge&logo=microsoftazure)](https://www.credly.com/badges/e6817881-6489-44ec-a55b-374cd7525bac)
@@ -27,9 +25,11 @@ QA Automation Engineer 💻, Bike Rider 🏍️, Traveler, Passionate Gardener �
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samadhan-qa)
 
 🌱 I'm currently learning
+
 I am currently exploring the worlds of Cloud especially AWS Services that can be used to improve the Automation Testing Process for products.
 
 🥇 Achievements
+
 -Implemented thorough manual testing strategies for the application, ensuring seamless user experience and functionality across various devices which gave **20% improvement in overall software stability and performance**
 
 -Engineered automation scripts using Selenium and Java to increase testing efficiency, resulting in a **40% reduction in manual testing time and a 25% increase in test coverage**
